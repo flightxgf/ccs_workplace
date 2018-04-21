@@ -86,7 +86,7 @@
 // To be added by user
 void        SysTick_ISR(void);
 void        LwipEthernet_ISR(void);
-void 		USB0OTGModeIntHandler(void);
+void        USB0OTGModeIntHandler(void);
 
 SysTick_ISR,                         // The SysTick handler
 LwipEthernet_ISR,                    // Ethernet

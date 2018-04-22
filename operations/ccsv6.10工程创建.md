@@ -65,7 +65,7 @@
 > 需要的工程文件已经拖完毕
 
 
-## 给工程天剑头文件 ##
+## 给工程添加头文件 ##
 
 * 右键项目 Properties-->Build--->ARM Compiler--->include
 * 右键项目 Properties-->Build--->ARM linker--->Basice options（set c systesm）:设置需要的栈：8042
